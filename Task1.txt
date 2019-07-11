@@ -1,5 +1,5 @@
 hello
-Print world
+Print "world"
 Let's learn github
 Let use youtube to learn codeing 
-Test one more line 
+I just finish Video 1.1 from GitHub, so lets start the next one
